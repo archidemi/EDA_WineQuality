@@ -1,8 +1,10 @@
 # Exploratory Data Analysis of White Wine Quality
 
-Check the report [here](https://archidemi.github.io/EDA_WineQuality/whiteWine.html).
+Check the EDA report [here](https://archidemi.github.io/EDA_WineQuality/whiteWine.html).
 
-### Wine Quality Info
+Below is the data source information.
+---
+#### Wine Quality Info
 
 Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
