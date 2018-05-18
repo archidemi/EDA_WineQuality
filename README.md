@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of White Wine Quality
 
-Check the report [here](https://archidemi.github.io/whiteWine.html).
+Check the report [here](https://archidemi.github.io/EDA_WineQuality/whiteWine.html).
 
 ### Wine Quality Info
 
